@@ -11,5 +11,5 @@ This are the Labs & Assignments codes for CSE 330: Numerical Method. There are l
   <li>Lab 4: Hermite and Newton's Divided Difference Interpolation</li>
   <li>Lab 5: Differentiation and Richardson Extrapolation</li>
   <li>Lab 6: Nonlinear Equations</li>
-  <li>v</li>
+  <li>Lab 7: Equation System</li>
 </ul>
